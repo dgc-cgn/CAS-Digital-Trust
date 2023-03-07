@@ -5,6 +5,7 @@
 Conformity assessment is the demonstration that what is being supplied actually meets the requirements specified or claimed. Conformity assessment can be applied to a product (which, for these purposes includes a service), a process, a management system, a body or persons and includes activities such as testing, inspection and certification.
 
 Conformity can be:
+
 * assessed by a body that is independent of any party interested in the outcome of the assessment (third party conformity assessment); or
 * assessed by any party that is interested in the outcome of the assessment.
 
