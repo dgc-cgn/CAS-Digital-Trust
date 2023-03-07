@@ -42,7 +42,7 @@ Updating the client data base w.r.t. changes in client details, NC’s issued in
 
 Filing the report in the client file along with all relevant papers like audit notes, corrective actions submitted by client etc. Auditor performance evaluation sheets etc are filed in respective files.  
 
-Verify compliance to all CIOSC quality and certification requirements 
+Verify compliance to all DGC quality and certification requirements 
 
 ## Certificate preparation and issue 
 
@@ -50,11 +50,11 @@ This involves preparation and review of certificate, certificate signature by Di
 
 Certificates are issued to clients following initial audit, extension to accredited scope, triennial audit, upgrade on surveillance or change in company details (name, address etc). 
 
-The certificates will be numbered sequentially starting with I001 followed by the global client code of CIOSC. 
+The certificates will be numbered sequentially starting with I001 followed by the global client code of DGC. 
 
 AE prepares the certificate:  
 
-* No certificate will be issued unless CIOSC has evidence that all non-conforming notices raised have been closed out. 
+* No certificate will be issued unless DGC has evidence that all non-conforming notices raised have been closed out. 
 
 * Select the appropriate blank certificate(s) based on the standard as indicated on the audit report.  Be sure to check for any changes indicated on Comment Sheets attached to audit report. 
 
@@ -76,7 +76,7 @@ AE prepares the certificate:
 
 * In cases of group of companies, the locations may have different scopes of certification or trading names, each is issued with respective names, addresses and scope. The certificate shall have the same certificate number with a suffix (as explained above). 
 
-* Clients may have integrated system where certificates for multiple standards are issued. In such cases, the Accreditation body accredited certificate is issued as above. Rest of the certificates shall be issued by CIOSC using its own format and process. Necessary comment shall be added to the client file and client database for future reference / use. 
+* Clients may have integrated system where certificates for multiple standards are issued. In such cases, the Accreditation body accredited certificate is issued as above. Rest of the certificates shall be issued by DGC using its own format and process. Necessary comment shall be added to the client file and client database for future reference / use. 
 
 * In the event of issuing any revised certification documents, then the original certificate number will have a suffix of revision number. e.g. I/001/07 – R1, for first revision. The expiry date of the certificate does not change and continues the same as the original. Issue date shall be the date of C.C. Chairman Approval. Initial Registration date shall be the same as original. 
 
@@ -86,7 +86,7 @@ AE prepares the certificate:
 
 * The signed certificate is sent to the client at there address or any other address they have specifically requested. The certificate shall not be issued to any other person without a written approval from the client. The certificate docket shall contain at least the following – 
 
-Cover letter from CIOSC 
+Cover letter from DGC 
 
 Certificate 
 
@@ -112,7 +112,7 @@ Increase or decrease in scope (products, services offered etc.)
 
 Increase or decrease in locations (opening / closing of site etc.) 
 
-* Client may request for change in certificate or reduction / expansion in scope to Quality Manager   Quality Manager shall review the request and decide for a special audit if the next audit is not due in near future or if the next audit cannot be proposed. Quality Manager also determines if the changed scope is within accreditation scope of CIOSC 
+* Client may request for change in certificate or reduction / expansion in scope to Quality Manager   Quality Manager shall review the request and decide for a special audit if the next audit is not due in near future or if the next audit cannot be proposed. Quality Manager also determines if the changed scope is within accreditation scope of DGC 
 
 In case of change in name of company or location without any change in management, the client shall submit ROC approval for the change. Where the management has changed, the details of M&A and ROC approval shall be submitted along with the request.  
 
@@ -126,7 +126,7 @@ This instruction covers suspension procedures through withdrawal or cancellation
 
 Grounds for action are brought to the attention of the Quality Manager, who reviews the information and decides whether to proceed.  Either way, they issue a letter to the client via registered mail / courier advising them of the details of the grounds for action and the decision on whether to proceed. 
 
-If the Quality Manager decides to proceed, the client must reply to CIOSC India within fourteen days of receipt of letter. 
+If the Quality Manager decides to proceed, the client must reply to DGC India within fourteen days of receipt of letter. 
 
 If the Quality Manager determines that the action or position contained in the client reply is satisfactory, they issue a letter stating this, and mails it to the client via registered mail. 
 
@@ -140,17 +140,17 @@ The following reasons are considered grounds for suspension or cancellation:
 
 Major non-conformance(s) or effective corrective action not implemented within a specified time period. 
 
-Improper use of the certificate, symbol or logo not remedied to the satisfaction of CIOSC 
+Improper use of the certificate, symbol or logo not remedied to the satisfaction of DGC 
 
 Client ceases to supply product or service of the certified quality system for an extended period of time. 
 
 Client’s certified management system has persistently fails to meet any of the requirements for certification including requirements for the effectiveness of the management system. 
 
-Client fails to meet financial obligations to CIOSC 
+Client fails to meet financial obligations to DGC 
 
 Client makes a formal request to withdraw certification. 
 
-Infringement by the client of any contractual conditions between the client and CIOSC 
+Infringement by the client of any contractual conditions between the client and DGC 
 
 Client is unable or unwilling to ensure conformance to revisions of standards. 
 
@@ -168,33 +168,33 @@ The above are for special conditions like strike, natural calamities, business o
 
 Subject to actions by the client, the following steps will be taken leading to possible suspension or cancellation of the client's certification:  
 
-Unless a reply is received to the letter accompanying notification within 14 days, certification will be suspended and a notification of suspension may be published at the discretion of CIOSC 
+Unless a reply is received to the letter accompanying notification within 14 days, certification will be suspended and a notification of suspension may be published at the discretion of DGC 
 
 The client's response to the accompanying letter will be reviewed and the proceedings may be put on hold while clarification is sought. 
 
-Where mutually agreed-upon corrective action is to be implemented, a time period for implementation will be specified and a review of the corrective action undertaken at the appointed time. This may be the subject of a special surveillance visit or of review of submitted objective evidence, at the discretion of CIOSC Should the corrective action not be considered adequate or not be completed by the appointed time, certification will be automatically suspended. 
+Where mutually agreed-upon corrective action is to be implemented, a time period for implementation will be specified and a review of the corrective action undertaken at the appointed time. This may be the subject of a special surveillance visit or of review of submitted objective evidence, at the discretion of DGC Should the corrective action not be considered adequate or not be completed by the appointed time, certification will be automatically suspended. 
 
-In the case of serious circumstances, CIOSC may invoke suspension during the period pending the implementation of corrective action. 
+In the case of serious circumstances, DGC may invoke suspension during the period pending the implementation of corrective action. 
 
-Where suspension has been invoked, unless otherwise specified, the client must advise CIOSC every 14 days of the current situation of corrective action. Failure to meet this requirement will result in cancellation of the client's certification. 
+Where suspension has been invoked, unless otherwise specified, the client must advise DGC every 14 days of the current situation of corrective action. Failure to meet this requirement will result in cancellation of the client's certification. 
 
 Where suspension has been invoked due to failure to conduct surveillance audit, the client shall give justification for failure and offer suitable date. An additional day shall be added to routine surveillance days. The date shall not be later than 15 months from last audit. Failure to offer for audit within 15 months shall result in cancellation of certification. 
 
 When corrective action to resolve the problem(s) taken by the client has been verified, certification will be resumed. The period of certification will not be revised to cover the period of suspension. 
 
-Cancellation of certification will be invoked where, following suspension of certification, the client fails to respond to CIOSC communications within the 14-day grace period or fails to implement corrective action within the appointed time period. 
+Cancellation of certification will be invoked where, following suspension of certification, the client fails to respond to DGC communications within the 14-day grace period or fails to implement corrective action within the appointed time period. 
 
-In extreme circumstances CIOSC may invoke the cancellation of certification with immediate effect without recourse to initial certification suspension. 
+In extreme circumstances DGC may invoke the cancellation of certification with immediate effect without recourse to initial certification suspension. 
 
-Cancellation of certification will require the client to assume the status of non-approval and return all certification documentation to CIOSC 
+Cancellation of certification will require the client to assume the status of non-approval and return all certification documentation to DGC 
 
 Use of certification documents, symbols, or logos by the client following certification cancellation may result in legal action being taken against the client. 
 
-Re-approval after certification cancellation will be on the same basis, and follow the same process, as that of initial application for a new client.  This will require a full assessment, with optional document review at the discretion of CIOSC 
+Re-approval after certification cancellation will be on the same basis, and follow the same process, as that of initial application for a new client.  This will require a full assessment, with optional document review at the discretion of DGC 
 
-The de-certification will be published as a separate list and will be available at the CIOSC office and made available upon request. 
+The de-certification will be published as a separate list and will be available at the DGC office and made available upon request. 
 
-The client has the right to appeal any decisions of CIOSC and a copy of the appeals procedures will be made available upon request. 
+The client has the right to appeal any decisions of DGC and a copy of the appeals procedures will be made available upon request. 
 
 AE shall remove the companies where the certificate has been cancelled. During suspension, suspension remark shall be placed in the registered of approved firms. 
 
@@ -202,7 +202,7 @@ The client files for all cancelled cases shall be archived for a period of 3 mon
 
 ## Reduction in scope of Certificates issued 
 
-CIOSC shall wherever applicable reduce the scope of certification if during the time of routine surveillance audits / Re approval or Renewal audits it finds that the certified client has continually / seriously failed to meet the certification requirements for those parts of the scope of certification. The reduction in scope will be approved by the Quality Manager    
+DGC shall wherever applicable reduce the scope of certification if during the time of routine surveillance audits / Re approval or Renewal audits it finds that the certified client has continually / seriously failed to meet the certification requirements for those parts of the scope of certification. The reduction in scope will be approved by the Quality Manager    
 
  
 

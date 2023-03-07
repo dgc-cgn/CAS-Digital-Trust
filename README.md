@@ -68,7 +68,7 @@ An [Overview Video](https://youtu.be/4bbuKr3lweQ) describing the global context 
 
 Link to [Scheme Manual](./scheme/scheme-manual.md)
 
-If you are interested in piloting a CIOSC standard for inclusion into the conformity assessment scheme, [please contact](https://ciostrategycouncil.com/contact/) us.  
+If you are interested in piloting a DGC standard for inclusion into the conformity assessment scheme, [please contact](https://ciostrategycouncil.com/contact/) us.  
 
 ***
 [Public Statement](./public-information/README.md) | [License](./LICENSE.md)
