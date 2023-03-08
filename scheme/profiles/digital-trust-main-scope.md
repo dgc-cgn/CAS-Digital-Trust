@@ -14,6 +14,11 @@ In order for individuals and organizations to feel confident in using digital sy
 
 Digital trust certification is more than just an outcome of a certification process, or a mark of trustworthiness. It is a demonstration that certain standards or criteria have been met in the context of being recoginized as a reputable actor within the digital realm. Consideration of the digital realm is important because it can extend and have effect across many legal and political jurisidictions having varying levels of regulation and enforcement. Digital trust certification is intended to complement existing certification schemes by taking into the account the evolving nature of the digital realm including: codes of practice, new requirements, normative principles and emerging practices.
 
+The figure, below, illustrates how things fit together:
+
+
+![Digital Trust](./images/digital-trust-scheme.png)
+
 ## Digital Trust Principles
 
 Using the broadest brush, digital trust is based on a common foundation of principles. In a digital world, individuals must be able to trust that their privacy is protected, that their data will not be misused, and that enitities communicate in a simple and straightforward manner with their users.
