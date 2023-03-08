@@ -113,3 +113,4 @@ There is no 'one-fits-all approach'. In scoping out a digital trust assessment, 
 |Class Level| Method tailoring based on **Assessment Class Level**|
 |Caveats|Any caveats resulting from the preceding|
 
+[Link to Assessment Profiles](profiles-overview.md)
