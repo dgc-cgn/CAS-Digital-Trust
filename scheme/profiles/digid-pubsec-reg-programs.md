@@ -112,6 +112,29 @@ The assessment scheme may be limited or restricted in scope to one or all the fo
 Under development
 This assessement scheme may be used in conjunction with CAN/CIOSC 103-2:2021 Digital Trust and Identity - Part 2
 
+## Background
+
+### Strategic Need
+
+There is no standardized way to present and consume identity information online and in-person with trust and confidence, while respecting the rights of individuals, including their privacy. Many existing online systems are morphing into interconnected, ad hoc and non-standard authentication and identity systems, which can be easily exploited by the criminal element and which
+can result in non-optimal balances between users, relying parties and authoritative parties. As one example, compromised username and password combinations used across several services purportedly by the same user may have devastating impacts, from credit card fraud and mobile device deactivations to compromise of, and re-use of online personal information and related data
+
+Accessible, inclusive and efficient service delivery across all channels and sectors of the economy relies heavily on the input of a trusted digital identity, i.e., an ability to confirm you are whom you say you are. While identity and risk can be largely mitigated by default in the physical world through closed and fragmented systems and established standards and regulatory safeguards (and the fact that such risks are now largely tolerated and ‘priced’), compensating systems, standards, mitigation strategies and regulatory oversight do not yet exist in the online world. And in the online world, risk is multiplied both by velocity and distributed relationships and accordingly the potential impact of adverse incidentsrelated to a single compromise – or worse material compromises – can be exponential and broadly disseminated.
+
+There is a general realization that traditional document-based authentication processes and oversight rules for identity must evolve and adapt to support a shift to the use of identity sources for digital services. A formal methodology does not exist to assess identity and credential risk, nor a trust mechanism or regulatory oversight to enable the digital federation of identity. In the absence of a standard, public and private sector organizations continue to rely on organization-specific, vendor driven and ad-hoc document-based identity management processes, impacting integrity, security, privacy, trust, and service delivery. The formal methodology should balance the myriad of tensions involved – legal, technical, remedial etc. with the intent that the resulting digital federation should provide a foundation of trust for all – a foundation that can be evolved over time independent of the technology and relationships of the day while supporting the innovation and service enhancement that will characterize the Canadian digital economy.
+
+This National Standard of Canada will:
+
+* define a set of controls and procedures to help protect Canadians transacting in both the Public and Private sectors;
+* support future certification programs developed at national, regional and international levels;
+* be maintained on a periodic basis as determined by the technical committee responsible for developing the standard.
+
+### Trade
+
+Having a trusted digital identity standard and federation rules will propel Canada to the forefront of
+global digital economies. This standard will form the policy foundation of a new digital economy - formalizing the chain of trust across jurisdictions, users and both Public and Private sector organizations. It will allow participants to rely upon the assurance provided by another and allow individuals to transact with these organizations with trust and confidence. In addition, given the rapid escalation in cyber mischief and malicious practices from both public and private sector actors globally, it is important to put stakes in the ground to guide the well-intentioned, and potentially sanction those with other motives. A standard is an effective mechanism for demonstrating compliance with processes (actions and behaviours) a community agrees are important. Broad adoption of the standard will reduce uncertainty and therefore can encourage entrepreneurship and investment, as well as advance trade.
+
+
 ## References
 
 ### Enabling Legislation, Regulations and Policies
