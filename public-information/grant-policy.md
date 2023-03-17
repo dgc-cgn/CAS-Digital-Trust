@@ -2,7 +2,7 @@
 
 ## Purpose  
 
-To describe the procedure for the grant (and revocation) of certificates and validation/verification statements
+To describe the policy and procedure for the grant (and revocation) of certificates and validation/verification statements
 
 ## Scope
 
@@ -28,7 +28,7 @@ This procedure covers activities related to grants of certficates and validation
 
 ### Roles and Responsibilites
 
-* **Conformity Assessment Body** is the accountable legal entity for the granting of a validation/verfication statement or a certification. For the purposes of this document, this definition is synonynomous with **Validation and Verification Body**
+* **Conformity Assessment Body** is the accountable legal entity for the granting of a validation/verfication statement or a certification. For the purposes of this document and depending on the applicable standard, this definition may be synonynomous with **Validation and Verification Body** or **Certification Body**
 
 * **Certification Committee** is the accountable committee for the decision to granting of the validation/verification statement or certificate. The certfication committee is chaired by a senior official of the legal entity of conformity assessment body. Depending on the type of engagement,the certification committe may be an ad hoc committee or a standing committee.
 
