@@ -2,15 +2,35 @@
 
 ## Purpose  
 
-To describe a procedure for issue of certificate, suspension and withdrawal of the certificate.
+To describe the procedure for the grant (and revocation) of certificates and validation/verification statements
 
 ## Scope
 
-This procedure covers overall activity for certificate issue, suspension and withdrawal of certificate for all types of validation/verification certification activities carried out by the conformity assessment body.
+This procedure covers activities related to grants of cerficates and validation/verfication statements made by the conformity assessment body.
 
-## Responsibilities
+## Key Terms and Reponsibilities
 
-* **Certification Committee** is accountable for the granting of the validation/verification statement or certificate. The certfication committee is chaired by a senior official of the legal entity of conformity assessment body. Depending on the type of engagement,the certification committe may be an ad hoc committee or a standing committee.
+### Objects and Actions
+
+* **Grant** A grant is formal agreement by the conformity assessment body (grantor) to grant a right of recognition to another party (grantee) in relation to the successfu validation/verification or certfication process. There are two types of grants:
+
+  * **Certificate** is a grant in accordance with ISO 17021 in conjunction with the applicable conformity assessment scheme. The grant of a validation/verification statement is the successuful outcome of a validation/verification claim audit engagement.
+
+  * **Validation/Verification Statement** si a grant in accordance with ISO 17029 and in conjunction with the applicable conformity assessment scheme. The grant of a validation/verification statement is the successuful outcome of a validation/verification claim audit engagement.
+
+* **Claim** a claim (or set of claims) subject to the general principles and assessment requirements.
+
+  * **Validation/Verification Claim** a claim subject to 17029
+
+* **Certification** the successful outcome of an assessment in accordance with ISO 17021 using the applicable conformity assessment scheme.
+
+* **Validation/Verification** the successful outcome of an assessment in accordance with ISO 17029 using the applicable conformity assessment scheme.
+
+### Roles and Responsibilites
+
+* **Conformity Assessment Body** is accountable for the granting of a validation/verfication statement or a certification. For the purposes of this document, this definition is synonynomous with **Validation and Verification Body**
+
+* **Certification Committee** is accountable for the decision to granting of the validation/verification statement or certificate. The certfication committee is chaired by a senior official of the legal entity of conformity assessment body. Depending on the type of engagement,the certification committe may be an ad hoc committee or a standing committee.
 
 * **Director of Verification and Assessments** is responsible for the overall integrity of the conformity assessment program and ensure that engagements carried out under the auspices of the conformity assessment program are conducted according to its policies and any applicable instruments, such as industry codes of coduct, legislation, regulation, etc. Upon completion of an audit the director is responsible for presenting to the Certification Committee for grant consideration. The director is responsible for issuance and is the  registrar of grants. If a change in circumstance warrants, the director is authorized to issue a suspensions or withdrawal of a grant.
 
