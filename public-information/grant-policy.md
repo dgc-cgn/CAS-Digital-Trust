@@ -32,9 +32,9 @@ This procedure covers activities related to grants of certficates and validation
 
 * **Certification Committee** is the accountable committee for the decision to granting of the validation/verification statement or certificate. The certfication committee is chaired by a senior official of the legal entity of conformity assessment body. Depending on the type of engagement,the certification committe may be an ad hoc committee or a standing committee.
 
-* **Director of Verification and Assessments** is the responsible individual for the overall integrity of the conformity assessment program and ensure that engagements carried out under the auspices of the conformity assessment program are conducted according to its policies and any applicable instruments, such as industry codes of coduct, legislation, regulation, etc. Upon completion of an audit the director is responsible for presenting to the Certification Committee for grant consideration. The director is responsible for issuance and is the  registrar of grants. If a change in circumstance warrants, the director is authorized to issue a suspensions or withdrawal of a grant.
+* **Director of Verification and Assessments** is the responsible individual for the overall integrity of the conformity assessment program and ensures that the engagements carried out under the auspices of the conformity assessment program are conducted according to its policies and any other applicable instruments (such as industry codes of coduct, legislation, regulation, etc.). Upon completion of an engagement, the director is responsible for presenting to the Certification Committee for a grant decision. Upn grant decision, the director is responsible for the issuance of the certifcate/statement and acts in the role of registrar for certificates and statements. If a change in circumstance warrants, the director is authorized to issue a suspension or withdrawal of a grant resuting in a revocation of a certification or statement.
 
-* **Quality Manager** is the responsible organization for ensuring the overall quality and compliance of the program. This includes identifying issues, implementing corrective corrective measures, and when necessary, raising issues to the director.
+* **Quality Manager** is the responsible individual for ensuring the overall quality and compliance of the program. This includes identifying issues, implementing corrective corrective measures, and when necessary, advising the Director of Verification and Assessments of issues and recommended courses of action.
 
 * **Auditor** is responsible entity (organization or individual) for carrying out the audit according to the terms of the engagement.
 
@@ -42,7 +42,7 @@ This procedure covers activities related to grants of certficates and validation
 
 ### Receipt and review of Audit report
 
-* The team leader is responsible for submission of audit report documents. This contains at least client signed audit report, corrective action plan for non-conformances and assessor notes.  
+* The audit team leader is responsible for submission of audit report documents. This contains at least client signed audit report, corrective action plan for non-conformances and assessor notes.  
 
 All audit reports (Stage 1, Stage 2, routine surveillances, follow-up, special audit, recertification etc) are reviewed at multiple stages.  
 
