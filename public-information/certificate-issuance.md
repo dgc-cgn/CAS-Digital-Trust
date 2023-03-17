@@ -1,24 +1,26 @@
-# Certificate Issuance, Suspension and Withdrawal 
-
-
+# Certificate Issuance, Suspension and Withdrawal
 
 ## Purpose  
 
-To describe a procedure for issue of certificate, suspension and withdrawal of the certificate 
+To describe a procedure for issue of certificate, suspension and withdrawal of the certificate.
 
-## Scope 
+## Scope
 
-This procedure covers overall activity for certificate issue, suspension and withdrawal of certificate for all types of certification activities done by us. 
+This procedure covers overall activity for certificate issue, suspension and withdrawal of certificate for all types of validation/verification certification activities carried out by the conformity assessment body.
 
-## Responsibility 
+## Responsibilities
 
-* **Quality Manager** is responsible for review and approval of certificates. They is responsible for issue of certificate to client. They are authorised to send suspension or withdrawal letters/e mails to client. They are supported by the support staff for all routine activities. 
+* **Certification Committee** is accountable for the granting of the validation/verification or certificate. The certfication committee is chaired by a senior official of the legal entity of conformity assessment body. Depending on the type of engagement,the certification committe may be an ad hoc committee or a standing committee.
 
-* **Director of Verification and Assessments** is responsible for approval of certificates. certificate signature by Director of Verification and Assessments and updating the registrar of firms. In absence of Director of Verification and Assessments can sign the certificate. 
+* **Director of Verification and Assessments** is responsible for the overall integrity of the conformity assessment program and ensure that engagements carried out under the auspices of the conformity assessment program are conducted according to its policies and any applicable instruments, such as industry codes of coduct, legislation, regulation, etc. Upon completion of an audit the director is responsible for presenting to the Certification Committee for grant consideration. The director is responsible for issuance and is the  registrar of grants. If a change in circumstance warrants, the director is authorized to issue a suspensions or withdrawal of a grant.
 
-## Description of Activity 
+* **Quality Manager** is responsible for ensuring the overall quality and compliance of the program. This includes identifying issues, implementing corrective corrective measures, and when necessary, raising issues to the director.
 
-### Receipt and review of Audit report 
+* **Auditor** is responsible for carrying out the audit according to the terms of the engagement.
+
+## Description of Activity
+
+### Receipt and review of Audit report
 
 * The team leader is responsible for submission of audit report documents. This contains at least client signed audit report, corrective action plan for non-conformances and assessor notes.  
 
