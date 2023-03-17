@@ -1,4 +1,4 @@
-# Certificate Issuance, Suspension and Withdrawal
+# Grant Policy for Certificates and Validation/Verification Statements
 
 ## Purpose  
 
@@ -6,7 +6,7 @@ To describe the procedure for the grant (and revocation) of certificates and val
 
 ## Scope
 
-This procedure covers activities related to grants of cerficates and validation/verfication statements made by the conformity assessment body.
+This procedure covers activities related to grants of certficates and validation/verfication statements made by the conformity assessment body.
 
 ## Key Terms and Reponsibilities
 
