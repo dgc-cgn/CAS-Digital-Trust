@@ -20,7 +20,8 @@ This procedure covers activities related to grants of certficates and validation
 
 * **Claim** a claim (or set of claims) that is subject to the general principles and assessment requirements.
 
-  * **Validation/Verification Claim** a claim subject to 17029
+  * **Validation/Verification Claim** a claim subject to ISO 17029
+  * **Certification Claim** a claim subject to ISO 17021
 
 * **Certification** is the successful outcome of an assessment in accordance with ISO 17021 using the applicable conformity assessment scheme.
 
