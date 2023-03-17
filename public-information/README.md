@@ -10,6 +10,7 @@ This video provides an overview of [17021-1 Management System](https://youtu.be/
 
 ## Public Information
 
+* [Grant Policy](./grant-policy.md)
 * [Audit Processes](./audit-program.md)
 * [Certification](./suspend-withdraw-reduce-scope-certification.md)
 * [Complaints and Appeals](./complaints-and-appeals.md)
