@@ -18,6 +18,7 @@ Assessment schemes currently being developed through pilot engagements.
 |Cybersecurity|Baseline Controls for SMEs|[Baseline Controls for SMEs](./baseline-cybersecurity-controls.md)|[CAN/CIOSC 104](./baseline-cybersecurity-controls.md)
 ||Industrial Internet of Things|[Industrial Internet of Things](./industrial-internet-of-things.md)|[CAN/CIOSC 105](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-cybersecurity/cybersecurity-iiot/)
 |Open Finance|Customer Experience|[Customer Experience](./open-finance-profile.md)|[CAN/CIOSC 110-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-open-finance/can-ciosc-110-1-open-finance-part-1-customer-experience/)|
+|Online Electoral Voting|Municipal Elections|[Online Voting in Canadian Municipal Elections](./online-voting.md)|[CAN/DGSI 111-X:202X](https://dgc-cgn.org/standards/find-a-standard/standards-in-online-electoral-voting-2/can-ciosc-111-x202x-online-electoral-voting/)|
 
 ## Accreditation
 
