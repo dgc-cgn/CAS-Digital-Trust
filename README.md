@@ -6,9 +6,9 @@
 
 ## Accreditation
 
-The Digital Trust Conformity Assessment Scheme is being develop with overall goal of being accredited under the auspices of the [Standards Council of Canada Accreditation Program](https://www.scc.ca/en/accreditation/get-accredited).
+The Digital Governance Council's [Digital Trust Conformity Assessment Scheme](./scheme/profiles/digital-trust-main-scope.md) is being developed with overall goal of being accredited under the auspices of the [Standards Council of Canada Accreditation Program](https://www.scc.ca/en/accreditation/get-accredited).
 
-The two programs under consideration:
+The two programs currently under consideration for accreditation:
 
 * [Management Systems Certification Bodies](https://www.scc.ca/en/accreditation/programs/management-systems)
 * [Validation and Verification Bodies](https://www.scc.ca/en/accreditation/programs/greenhouse-gas)
