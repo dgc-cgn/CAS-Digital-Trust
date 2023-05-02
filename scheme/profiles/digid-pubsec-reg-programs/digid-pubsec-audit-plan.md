@@ -8,14 +8,18 @@ Detailed audit plan for 103-1 in accordance with ISO 17029:2015
 
 The client shall agree to and submit information sufficient to carry out a pre-engagement review, including the following:
 
-* client name
-* proposed claim to be validated/verified;
-* location/jurisdiction where the client’s activities are undertaken and in effect
-* the validation/verification programme and associated specified requirements for the validation/
+* Client name
+* Proposed claim to be validated/verified;
+* Location/jurisdiction where the client’s activities are undertaken and in effect
+* The validation/verification programme and associated specified requirements for the validation/
 verification;
-* the objectives and scope of the validation/verification;
-* relevant reports and/or information that describes to contenxt
-* where known at this stage and where applicable, the materiality and the level
+* The objectives and scope of the validation/verification;
+* Relevant reports and/or information that describes to contenxt
+* Where known at this stage and where applicable, the materiality and the level
+
+```text
+This is standard information required for any engagement. It may take several meetings with the client to understand the full client context and how the scope of assessment is defined or fits into this context. As part of the pre-engagement it is advised to start a working draft of the validation/verification statement as this can drive the discovery process.
+```
 
 ### Review
 
