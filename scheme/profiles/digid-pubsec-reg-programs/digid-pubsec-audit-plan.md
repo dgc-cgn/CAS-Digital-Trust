@@ -21,7 +21,10 @@ verification;
 
 Audit tips:
 
+* This audit plan and scheme are part of a broader [Digital Trust Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/digital-trust-main-scope.md). It is advisable to become familiar with the concepts in this broader scheme.
 * This is standard information required for any engagement. It may take several meetings with the client to understand the full client context and how the scope of assessment is defined or fits into this context. As part of the pre-engagement it is advised to start a working draft of the validation/verification statement as this can drive the discovery process.
+* It is advisable to identify which trust framework that the client is intending on using. The requirements in 103-1 Section 4.1 are intended to agnostic in terms of which trust framework is used, but the choice of trust framework (or not) may impact the audit plan and how the Section 8 requirements are interpreted and assessed.
+* Section 4.2 should be review as part of the pre-enagement process as this will inform the development of the validation/verfication statement.
 
 ---
 
@@ -38,6 +41,14 @@ A pre-engagement review shall be conducted of the information received from the 
 * the validation/verification duration can be estimated;
 * the validation/verification body has identified and has access to the resources and competencies that are required to undertaken the validation/verification
 * the timeframe for the planned validation/verfication can be proposed
+
+---
+
+Audit tips:
+
+* It is advisable to have a common understanding/agreement of the [Certification Parameters](https://github.com/dgc-cgn/CAS-Digital-Trust#final-certificate-scope-sub-scope-specialization-and-tailoring). In particular, 
+
+---
 
 ### Acceptance
 
