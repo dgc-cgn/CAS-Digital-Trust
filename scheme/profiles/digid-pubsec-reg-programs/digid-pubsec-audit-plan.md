@@ -139,33 +139,6 @@ requirements;
 * indicate the date and the unique identification of the statement;
 * include any findings, that have not been addressed prior to the issue of the validation/verification
 statement, if required by the programme.
-9.8 Facts discovered after the issue of the validation/verification statement
-9.8.1 If new facts or information that could materially affect the validation/verification statement are
-discovered after the issue date, the validation/verification body shall:
-a)
-communicate the matter as soon as practicable to the client and, if required, the programme owner;
-b) take appropriate action, including the following:
-1) discuss the matter with the client;
-2) consider if the validation/verification statement requires revision or withdrawal.
-9.8.2 If the validation/verification statement requires revision, the validation/verification body shall
-implement processes to issue a new statement including specification of the reasons for the revision.
-These can include repeating relevant steps of the validation/verification process.
-9.8.3 The validation/verification body may also communicate to other interested parties the fact that
-reliance of the original statement can now be compromised given the new facts or information.
-9.9 Handling of appeals
-9.9.1 The validation/verification body shall have a documented process to receive, evaluate and make
-decisions on appeals.
-9.9.2
-The process for handling appeals shall include at least the following:
-a)a description of the process for receiving, investigating, substantiating the appeal, and deciding
-what actions are to be taken in response;
-c)ensure appropriate action is taken.
-b) tracking and recording the appeal, including the actions to resolve it;
-16
-﻿
-© ISO/IEC 2019 – All rights reserved“Provided by the Standards Council of Canada for use in the development of
-ISO/IEC 17029:2019(E)
-﻿
 
 ## 5. Review
 
