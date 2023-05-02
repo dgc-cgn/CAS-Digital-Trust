@@ -18,7 +18,9 @@ verification;
 * Where known at this stage and where applicable, the materiality and the level
 
 ---
+
 This is standard information required for any engagement. It may take several meetings with the client to understand the full client context and how the scope of assessment is defined or fits into this context. As part of the pre-engagement it is advised to start a working draft of the validation/verification statement as this can drive the discovery process.
+
 ---
 
 ### Review
