@@ -134,11 +134,9 @@ This National Standard of Canada will:
 Having a trusted digital identity standard and federation rules will propel Canada to the forefront of
 global digital economies. This standard will form the policy foundation of a new digital economy - formalizing the chain of trust across jurisdictions, users and both Public and Private sector organizations. It will allow participants to rely upon the assurance provided by another and allow individuals to transact with these organizations with trust and confidence. In addition, given the rapid escalation in cyber mischief and malicious practices from both public and private sector actors globally, it is important to put stakes in the ground to guide the well-intentioned, and potentially sanction those with other motives. A standard is an effective mechanism for demonstrating compliance with processes (actions and behaviours) a community agrees are important. Broad adoption of the standard will reduce uncertainty and therefore can encourage entrepreneurship and investment, as well as advance trade.
 
-
 ## References
 
 ### Enabling Legislation, Regulations and Policies
-
 
 * [CA Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
 * [EU Proposed Amendments No 910/2014 as regards establishing a framework for a European Digital Identity](https://www.europarl.europa.eu/doceo/document/ITRE-AM-734285_EN.html)
@@ -151,7 +149,7 @@ global digital economies. This standard will form the policy foundation of a new
 
 * [Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 
-### Applicable Guidance 
+### Applicable Guidance
 
 * [Conformity Assessment Tools to Support Public Policy](https://casco.iso.org/techniques-and-schemes.html)
 * [NIST SP 800-63-4 Digital Identity Guidelines Draft](https://csrc.nist.gov/publications/detail/sp/800-63/4/draft)
