@@ -11,9 +11,10 @@ THe scheme profiles, listed below, are being designed to fit under the broader [
 
 Assessment schemes currently being developed through pilot engagements.
 
-|Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards|Current Status|
+|Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards/Specification|Current Status|
 |---|---|---|---|---|
 |Artifical Intelligence|Ethical Design|[Automated Decision-Making](./ethical-design-and-automated-decision.md)|[CAN/CIOSC 101](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-automated-decision-systems-ai/cisoc101/)|
+|Digital Credentials|Digital Credentials|[Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets](https://github.com/dgc-cgn/CAS-Digital-Credentials)|[DGSI/TS-115:2023](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)|[SCC Phase 3](https://www.scc.ca/en/flagship/digital-credentials)
 |Digital Identity|Trusted Digital Identity|[Public Sector and Regulated Programs](./digid-pubsec-reg-programs/digid-pubsec-reg-programs.md)|[CAN/DGSI 103-1:2023](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)|Pilot|
 |||[Health Care](./digital-identity-profile.md#health-care)|[CAN/CIOSC 103-2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust/)||
 |Data Governance|Data Governance|[Data-Centric Security](./data-governance-profile.md#data-centric-security)|[CAN/CIOSC 100-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)|
