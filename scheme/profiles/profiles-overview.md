@@ -7,7 +7,7 @@ Digital Governance Council is currently seeking 17029 accreditation of the [Digi
 
 ## Assessment Schemes Under Development
 
-THe scheme profiles are being designed to fit under the broader [Digital Trust Main Scope](./digital-trust-main-scope.md). The assessment schemes listed below are designed to address a specific topic while leveraging the broader requirements related to  digital trust.
+THe scheme profiles, listed below, are being designed to fit under the broader [Digital Trust Main Scope](./digital-trust-main-scope.md). The assessment schemes listed below are designed to address a specific topic while leveraging the broader requirements related to  digital trust.
 
 Assessment schemes currently being developed through pilot engagements.
 
