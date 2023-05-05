@@ -11,20 +11,22 @@ THe scheme profiles, listed below, are being designed to fit under the broader [
 
 Assessment schemes currently being developed through pilot engagements.
 
-|Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards|
-|---|---|---|---|
+|Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards|Current Status|
+|---|---|---|---|---|
 |Artifical Intelligence|Ethical Design|[Automated Decision-Making](./ethical-design-and-automated-decision.md)|[CAN/CIOSC 101](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-automated-decision-systems-ai/cisoc101/)|
-|Digital Identity|Trusted Digital Identity|[Public Sector and Regulated Programs](./digid-pubsec-reg-programs/digid-pubsec-reg-programs.md)|[CAN/DGSI 103-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)|
+|Digital Identity|Trusted Digital Identity|[Public Sector and Regulated Programs](./digid-pubsec-reg-programs/digid-pubsec-reg-programs.md)|[CAN/DGSI 103-1:2023](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)|Pilot|
 |||[Health Care](./digital-identity-profile.md#health-care)|[CAN/CIOSC 103-2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust/)||
 |Data Governance|Data Governance|[Data-Centric Security](./data-governance-profile.md#data-centric-security)|[CAN/CIOSC 100-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)|
 |Data Governance|Data Governance|[Third-Party Access to Data](third-party-access-to-data.md)|[CAN/CIOSC 100-2](https://dgc-cgn.org/standards/find-a-standard/standards-in-data-governance/third-party-access-to-data/)
 ||Data Governance|[Scalable Remote Access Infrastructure](./data-governance-profile.md#scalable-remote-access-infrastructure)|[CAN/CIOSC 100-4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)|
-||Data Governance|[Responsible Data Stewardship](./responsible-data-stewardship.md)|[CAN/CIOSC 100-7](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)|
+||Data Governance|[Responsible Data Stewardship](./responsible-data-stewardship.md)|[CAN/CIOSC 100-7](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)|Pilot|
 |Cybersecurity|Baseline Controls for SMEs|[Baseline Controls for SMEs](./baseline-cybersecurity-controls.md)|[CAN/CIOSC 104](./baseline-cybersecurity-controls.md)
 ||Industrial Internet of Things|[Industrial Internet of Things](./industrial-internet-of-things.md)|[CAN/CIOSC 105](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-cybersecurity/cybersecurity-iiot/)
 |Open Finance|Customer Experience|[Customer Experience](./open-finance-profile.md)|[CAN/CIOSC 110-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-open-finance/can-ciosc-110-1-open-finance-part-1-customer-experience/)|
 |Online Electoral Voting|Municipal Elections|[Online Voting in Canadian Municipal Elections](./online-voting.md)|[CAN/DGSI 111-X:202X](https://dgc-cgn.org/standards/find-a-standard/standards-in-online-electoral-voting-2/can-ciosc-111-x202x-online-electoral-voting/)|
 
-## Accreditation
+## Openness and Transparency
+
+To ensure onging digital trust in the program and all schemes are being developed using the open source approach.
 
 Please see our [Public Statements](/public-information/README.md) regarding certification and accreditation using the assessment schemes above.
