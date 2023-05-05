@@ -1,6 +1,6 @@
 # Scheme Name: Trusted Digital Identity: Public Sector and Regulated Programs
 
-[Back to Asssessment Schemes](./profiles-overview.md)|[Audit Plan](./digid-pubsec-audit-plan.md)
+[Back to Asssessment Schemes](../profiles-overview.md)|[Audit Plan](./digid-pubsec-audit-plan.md)
 
 ## Certificate Sub-Scope: Trusted Digital Identity
 
