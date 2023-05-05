@@ -1,8 +1,8 @@
-# Conformity Assessment Scheme: Digital Trust for Public Sector Bodies, Regulated Programs, and Industry Services
+# Digital Trust Conformity Assessment Scheme
 
 ![GitHub issues](https://img.shields.io/github/issues/dgc-cgn/CAS-Digital-Trust)
 
-[Quick Link to Assessment Schemes](./scheme/profiles/profiles-overview.md)
+Need to find a scheme quickly? Here's a [Quick Link to Assessment Schemes](./scheme/profiles/profiles-overview.md)
 
 ## Accreditation
 
