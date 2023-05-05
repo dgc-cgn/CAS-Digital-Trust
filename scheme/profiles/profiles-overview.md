@@ -1,11 +1,10 @@
-# Assessment Schemes
+# Assessment Scheme Profiles
 
 ## Accreditation
 
 Digital Governance Council is currently seeking 17029 accreditation of the [Digital Trust Conformity Assessment Scheme.](digital-trust-main-scope.md) under the auspices of the [Standards Council of Canada Accreditation Program](https://www.scc.ca/en/accreditation). Further details can be found in the [Accreditation Program Overview] (https://www.scc.ca/en/about-scc/publications/exigences-et-procedures-accreditation/accreditation-services-accreditation-program-overview)
 
-
-## Assessment Schemes Under Development
+## Assessment Scheme Profiles Under Development
 
 THe scheme profiles, listed below, are being designed to fit under the broader [Digital Trust Main Scope](./digital-trust-main-scope.md). The assessment schemes listed below are designed to address a specific topic while leveraging the broader requirements related to  digital trust.
 
