@@ -1,8 +1,15 @@
 # Assessment Schemes
 
-Assessment schemes (or scheme profiles) used for certification are components of a generalized [Digital Trust Conformity Assessment Scheme.](digital-trust-main-scope.md).  
+## Accreditation
+
+Digital Governance Council is currently seeking accreditation under the [Standards Council of Canada Accreditation Program](https://www.scc.ca/en/accreditation).
+
+
+Assessment schemes (or scheme profiles) used for certification are components of a generalized [Digital Trust Conformity Assessment Scheme.](digital-trust-main-scope.md). Further details can be found in the [Accreditation Program Overview] (https://www.scc.ca/en/about-scc/publications/exigences-et-procedures-accreditation/accreditation-services-accreditation-program-overview)
 
 ## Assessment Schemes Under Development
+
+
 
 Assessment schemes currently being developed through pilot engagements.
 
