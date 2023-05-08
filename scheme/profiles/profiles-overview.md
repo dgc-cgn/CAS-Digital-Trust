@@ -10,7 +10,7 @@ THe scheme profiles, listed below, are being designed to fit under the broader [
 
 Assessment schemes currently being developed through pilot engagements.
 
-|Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards/Specification|
+|Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards/Specification||
 |---|---|---|---|---|
 |Artifical Intelligence|Ethical Design|[Automated Decision-Making](./ethical-design-and-automated-decision.md)|[CAN/CIOSC 101](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-automated-decision-systems-ai/cisoc101/)|
 |Digital Credentials|Digital Credentials|[Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets](https://github.com/dgc-cgn/CAS-Digital-Credentials)|[DGSI/TS-115:2023](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)|
