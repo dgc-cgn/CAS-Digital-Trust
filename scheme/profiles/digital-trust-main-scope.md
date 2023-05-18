@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Digital trust refers to the confidence that people have in the security, reliability, and integrity of digital systems, devices, and services and these are built and maintained in a fair, open and transparent manner. Digital Trust is an important concept in the digital age, as more and more aspects of our lives are mediated by technology and the internet.
+Digital trust refers to the confidence that people have in the security, reliability, and integrity of digital systems, devices, and services and these are operated in a fair, open and transparent manner. Digital Trust is an important concept in the digital age, as more and more aspects of our lives are mediated by technology and the internet.
 
 Digital trust is overall expectation that digital technologies and services, including the organizations that provide these technologies and services will protect all stakeholders’ interests and uphold societal expectations and values.
 
