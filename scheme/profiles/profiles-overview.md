@@ -19,6 +19,7 @@ Assessment schemes currently being developed through pilot engagements.
 |Data Governance|Data Governance|[Data-Centric Security](./data-governance-profile.md#data-centric-security)|[CAN/CIOSC 100-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)|
 |Data Governance|Data Governance|[Third-Party Access to Data](third-party-access-to-data.md)|[CAN/CIOSC 100-2](https://dgc-cgn.org/standards/find-a-standard/standards-in-data-governance/third-party-access-to-data/)|
 ||Data Governance|[Scalable Remote Access Infrastructure](./data-governance-profile.md#scalable-remote-access-infrastructure)|[CAN/CIOSC 100-4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)|
+||Data Governance|[Health data and information capability framework](./data-governance-profile.md#health-data-information-capability-framework|[CAN/CIOSC 100-5](/)|
 ||Data Governance|[Responsible Data Stewardship](./responsible-data-stewardship.md)|[CAN/CIOSC 100-7](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)|
 |Cybersecurity|Baseline Controls for SMEs|[Baseline Controls for SMEs](./baseline-cybersecurity-controls.md)|[CAN/CIOSC 104](./baseline-cybersecurity-controls.md)
 ||Industrial Internet of Things|[Industrial Internet of Things](./industrial-internet-of-things.md)|[CAN/CIOSC 105](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-cybersecurity/cybersecurity-iiot/)
