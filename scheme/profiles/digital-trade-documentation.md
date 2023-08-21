@@ -20,7 +20,7 @@ Common types of trade documentation include:
 
 * **Bill of Lading:** A transport document issued by a carrier or their agent that acknowledges the receipt of goods for shipment and specifies the terms of transportation.
 
-**Packing List:** A document that lists the contents of a shipment, including details about packaging, weights, and dimensions.
+* **Packing List:** A document that lists the contents of a shipment, including details about packaging, weights, and dimensions.
 
 * **Certificate of Origin:** A document that certifies the country of origin of the goods. It may be required for customs clearance and to determine eligibility for preferential trade agreements.
 
