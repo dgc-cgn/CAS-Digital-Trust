@@ -40,7 +40,23 @@ The **legal aspect** is supported by [UNCITRAL Model Law on Electronic Transfera
 
 The **technical aspect** is supported by an emerging ecosystem of interoperable systems having technical standardization at many layers.
 
-Today, and into the future, **digital** will become the standard substrate standard for trade, vastly superior to paper, by means of cryptographic techniques that guarantee the integrity of documentation and a
+Today, and into the future, **digital** will become the standard substrate standard for trade, vastly superior to paper, by means of cryptographic techniques that guarantee the integrity of documentation.
+
+## Grant
+
+This assessment scheme may used for the following  grant:
+
+|Certificate Component|Description|
+|---|---|
+|Main Scope|Digital Trust|
+|Topic|Digital Trade|
+|Sub-Scope|Digital Trade Documentation|
+|Focus|[Interoperability](./digital-trust-main-scope.md#digital-trust-interoperability) and/or [System Reliability](./digital-trust-main-scope.md#system-reliability)|
+|Assessment Class Level|[Determined by Engagement](digital-trust-main-scope.md#assessment-class-level)|
+|Caveats|[Determined by Engagement](./digital-trust-main-scope.md#caveats)|
+
+
+
 
 ## References
 

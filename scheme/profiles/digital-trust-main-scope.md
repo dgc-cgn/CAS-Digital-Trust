@@ -42,6 +42,10 @@ Digital trust interoperability refers to the ability of different organizations,
 
 Digital trust interoperability is important because it helps to ensure that different organizations and systems can work together effectively and that people can rely on the information and services that they provide.
 
+## System Reliability
+
+System reliability is a key element underlying digital trust. System reliability ensures that digital services and platforms consistently function as expected, minimizing disruptions and outages. When users can rely on a system to be available and perform reliably, they are more likely to trust it with their personal information, financial transactions, and sensitive data. Consquently, t\rust in the digital realm is fragile and easily shattered by system failures. System reliability not only fosters trust but also upholds the integrity of the digital ecosystem, providing all stakeholders with the confidence they need to embrace and engage with each other.
+
 ## Digital Trust Conformity Assessment Scheme
 
 The Digital Trust conformity assessment scheme is intended to facilitate trust interoperablity in the digital world - or digital trust interoperabilty - as described in the previous section. To achieve this, the conformity assessment scheme incorporates certification sub-scopes and specializations that fit under a single umbrella - digital trust.
@@ -116,7 +120,13 @@ There is no 'one-fits-all approach'. In scoping out a digital trust assessment, 
 |Sub-Scope|Addition of Domain|Tailoring based on practices, codes, etc., accepted within the domain|
 |Specialization|Restriction of scope to a specifialization within a domain|
 |Class Level| Method tailoring based on **Assessment Class Level**|
-|Caveats|Any caveats resulting from the preceding|
+|Caveats|Any caveats resulting from the assessmsent|
+
+## Caveats
+
+A caveat is used to indicate a specific consideration, qualification or restriction that should be taken into account when relying on the certificate or grant. In the context of an assessment a caveat typically refers to a qualification or note that is added to the results or findings of the assessment. A caveat is a way of indicating that there are certain limitations, conditions, or factors that should be considered when interpreting or relying on the outcome of an assessment results. Caveats help to ensure that the resulting grant or certificate is accurately understood, not misinterpreted and when necessary, enable to granting authority to specifically define limits or boundaries related to the assessment's scope or focus.
+
+
 
 [Link to Assessment Profiles](profiles-overview.md)
 
