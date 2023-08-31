@@ -12,7 +12,7 @@ Assessment schemes currently being developed through pilot engagements.Please no
 
 |Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards/Specification||
 |---|---|---|---|---|
-|Artifical Intelligence|Ethical Design|[Automated Decision-Making](./ethical-design-and-automated-decision.md)|[CAN/CIOSC 101](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-automated-decision-systems-ai/cisoc101/)|
+|Artifical Intelligence|Ethical Design|[Automated Decision-Making](https://github.com/dgc-cgn/CAS-Ethical-Design-and-Use)|[CAN/CIOSC 101](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-automated-decision-systems-ai/cisoc101/)|
 |Digital Credentials|Digital Credentials|[Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets](https://github.com/dgc-cgn/CAS-Digital-Credentials)|[DGSI/TS-115:2023](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)|
 |Digital Identity|Trusted Digital Identity|[Public Sector and Regulated Programs](./digid-pubsec-reg-programs/digid-pubsec-reg-programs.md)|[CAN/DGSI 103-1:2023](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)|
 |Digital Identity|Trusted Digital Identity|[Not-For-Profit Organizations](./digid-pubsec-reg-programs/digid-not-for-profit.md)|[CAN/DGSI 103-1:2023](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)|
