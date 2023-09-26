@@ -140,6 +140,7 @@ global digital economies. This standard will form the policy foundation of a new
 
 * [CA Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
 * [EU Proposed Amendments No 910/2014 as regards establishing a framework for a European Digital Identity](https://www.europarl.europa.eu/doceo/document/ITRE-AM-734285_EN.html)
+* [OECD Recommendation on the Governance of Digital Identity](https://www.oecd.org/digital/digital-government/oecd-recommendation-on-the-governance-of-digital-identity.htm)
 
 ### Applicable International and National Standards
 
