@@ -11,30 +11,38 @@ While a clear definiton of roles and responsbilities remains paramount, sight sh
 
 Please note that the terms audit/assessment and auditors/assessors are considered equivalent and may be used interchangebly
 
-# Key Roles
+## Key Roles
 
 ## Certifying Authority
+
 * body that is accountable for ratifying the certification recommendation and approving the issuance of the certificate.
 
 ## Certification Committee
+
 * reponsible for endorsing the certification recommendation
 
 ## Certification Manager
+
 * the individual responsible for formalizing the certification recommendation
 
 ## Quality Manager
+
 * the individual responsible for review the audit material from a quality and process standpoint
 
 ## Lead Auditor
+
 * the individual responsible for leading the audit
 
 ## Auditors 
+
 * those that are conducting the audit
 
 ## Subject Matter Experts, Guides, and Support Personnel
+
 * those that are involved in the discovery, interpretation and evidence gathering process.
 
 ## Client
+
 * Subject of the asssment/audit
 
 
