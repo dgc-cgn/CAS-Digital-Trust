@@ -52,7 +52,7 @@ conflicts of interests,
 
 Conformity assessment systems and schemes should
 
-* be operated by a body or bodies adhering to the principles outlined in 4.3,
+* be operated by a body or bodies adhering to the principles outlined in the previous principle,
 * be designed and administered in a transparent, open, non-discriminatory and reliable manner,
 * be designed and administered in such a way as to not create unnecessary obstacles to trade,
 * be appropriate to the particular situation or industry sector in order to facilitate acceptance of the conformity assessment results,
