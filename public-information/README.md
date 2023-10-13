@@ -6,11 +6,10 @@ Digital Governance Council ensures all employees and other personnel involved in
 
 To ensure that impartiality is both maintained and can be demonstrated, DGC has identified and assessed the risk of all relationships which may result in a conflict of interest or pose a threat to impartiality.
 
-This video provides an overview of [17021-1 Management System](https://youtu.be/EYx2QrKqiT8) in place as an accredited conformity assessment body.
-
-## Public Information
+## Policies, Processs and Principles
 
 * [Grant Policy](./grant-policy.md)
+* [Conformity Assessment Principles](./conformity-assessment-principles.md)
 * [Audit Processes](./audit-program.md)
 * [Certification](./suspend-withdraw-reduce-scope-certification.md)
 * [Complaints and Appeals](./complaints-and-appeals.md)
@@ -19,3 +18,8 @@ This video provides an overview of [17021-1 Management System](https://youtu.be/
 * Process for handling requests for information
 * [Policy on Impartiality](./impartiality-policy.md)
 * [Confidentiality Policy](./confidentiality-policy.md)
+* [Quality Policy](./quality-policy.md)
+
+## Learning Resources
+
+This video provides an overview of [17021-1 Management System](https://youtu.be/EYx2QrKqiT8) in place as an accredited conformity assessment body.
