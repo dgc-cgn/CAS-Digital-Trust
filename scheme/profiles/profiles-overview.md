@@ -10,7 +10,7 @@ THe scheme profiles, listed below, are being designed to fit under the broader [
 
 Assessment schemes currently being developed through pilot engagements.Please note that the following table is organized by **Topics** that reflect the interests of stakeholders.
 
-|Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards/Specification||
+|Topic|Sub-Scope|Focus (Scheme Name)|Applicable Standards/Specification||
 |---|---|---|---|---|
 |Artifical Intelligence|Ethical Design|[Automated Decision-Making](https://github.com/dgc-cgn/CAS-Ethical-Design-and-Use)|[CAN/CIOSC 101](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-automated-decision-systems-ai/cisoc101/)|
 |Digital Credentials|Digital Credentials|[Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets](https://github.com/dgc-cgn/CAS-Digital-Credentials)|[DGSI/TS-115:2023](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)|
@@ -27,7 +27,7 @@ Assessment schemes currently being developed through pilot engagements.Please no
 ||Industrial Internet of Things|[Industrial Internet of Things](./industrial-internet-of-things.md)|[CAN/CIOSC 105](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-cybersecurity/cybersecurity-iiot/)
 |Open Finance|Customer Experience|[Customer Experience](./open-finance-profile.md)|[CAN/CIOSC 110-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-open-finance/can-ciosc-110-1-open-finance-part-1-customer-experience/)|
 |Online Electoral Voting|Municipal Elections|[Online Voting in Canadian Municipal Elections](./online-voting.md)|[CAN/DGSI 111-X:202X](https://dgc-cgn.org/standards/find-a-standard/standards-in-online-electoral-voting-2/can-ciosc-111-x202x-online-electoral-voting/)|
-|Health|Data Governance|[Health data and information capability framework](./data-governance-profile.md#health-data-information-capability-framework)|[CAN/DGSI 100-5](https://dgc-cgn.org/standards/find-a-standard/standards-in-health-data/health-data-framework/)|
+|Health|Health Data and Information Capability Framework |[Core HDI Capabilities](https://github.com/dgc-cgn/CAS-Health-Data-Info-Cap-Framework)|[CAN/DGSI 100-5](https://dgc-cgn.org/standards/find-a-standard/standards-in-health-data/health-data-framework/)|
 ||Delivery of Healthcare Services|[Health Care](./digid-pubsec-reg-programs/digid-pubsec-reg-programs.md#health-care)|[CAN/DGSI 103-2:2012](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust/)|
 ||Cyber Resiliency in Healthcare|[Health Care](./digid-pubsec-reg-programs/digid-pubsec-reg-programs.md#health-care)|[CAN/DGSI 118](https://dgc-cgn.org/standards/find-a-standard/standards-in-cybersecurity/cyber-resiliency-healthcare/)|
 
