@@ -2,7 +2,6 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/dgc-cgn/CAS-Digital-Trust)
 
-
 Need to find a scheme quickly? Here's a [Quick Link to Assessment Schemes](./scheme/profiles/profiles-overview.md)
 
 ## Objective
