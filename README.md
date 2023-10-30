@@ -8,6 +8,9 @@ Need to find a scheme quickly? Here's a [Quick Link to Assessment Schemes](./sch
 
 The Digital Trust Conformity Assessment program brings together standards, assessment methodologies, accreditation programs and communities to engender digital trust that is principles-driven, evidence-based and open-source by design.
 
+## Open Source by Design
+
+All conformity assessments are developed in the open and are open source by design. Additional details on [Open Source Conformity Assessment](./scheme/open-source-conformity-assessment.md)
 
 ## Accreditation
 
