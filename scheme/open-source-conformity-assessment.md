@@ -11,7 +11,6 @@ Open Source Conformity Assessment represents a novel approach in the field of qu
 ### Transparency
 
 * Open Source Conformity Assessment:
-
   * High Transparency: Processes, criteria, and results are openly available to the public. This transparency ensures that any interested party can scrutinize, suggest improvements, or verify results.
 
 * Established Conformity Assessment:
