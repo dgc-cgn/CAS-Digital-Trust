@@ -23,14 +23,13 @@ Open Source Conformity Assessment represents a novel approach in the field of qu
   * Community Driven: Encourages participation from a diverse set of stakeholders, including other industries, academia, and the general public. This collective intelligence can lead to more robust and innovative solutions.
 
 * Established Conformity Assessment:
-
   * Controlled Participation: Collaboration is usually limited to the client and the assessment body, and sometimes specific regulatory authorities. Other external stakeholders are generally not involved in the process.
 
 ### Innovation
 
 * Open Source Conformity Assessment:
   * Rapid Innovation: The open nature of the process allows for quicker identification of issues and faster development of solutions, fostering a continuous improvement environment.
-  * Established Conformity Assessment:
+* Established Conformity Assessment:
   * Steady but Controlled Innovation: Changes and improvements occur at a steadier pace, with innovations typically coming from within the industry or from specific research and development efforts.
 
 ### Accountability
@@ -45,8 +44,8 @@ Open Source Conformity Assessment represents a novel approach in the field of qu
 
 * Open Source Conformity Assessment:
   * Highly Accessible: Information and results are freely available, lowering barriers to entry for smaller businesses or less-resourced entities.
-  * Established Conformity Assessment:
-Varied Accessibility: Depending on the sector and the specific standards in question, accessing and understanding conformity assessment processes and results might require significant resources.
+* Established Conformity Assessment:
+  * Varied Accessibility: Depending on the sector and the specific standards in question, accessing and understanding conformity assessment processes and results might require significant resources.
 
 ## Conclusion
 
