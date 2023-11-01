@@ -16,7 +16,6 @@ Digital trust certification is more than just an outcome of a certification proc
 
 The figure, below, illustrates how things fit together:
 
-
 ![Digital Trust](./images/digital-trust-scheme.png)
 
 ## Digital Trust Principles
@@ -89,7 +88,4 @@ There is no 'one-fits-all approach'. In scoping out a digital trust assessment, 
 
 A caveat is used to indicate a specific consideration, qualification or restriction that should be taken into account when relying on the certificate or grant. In the context of an assessment a caveat typically refers to a qualification or note that is added to the results or findings of the assessment. A caveat is a way of indicating that there are certain limitations, conditions, or factors that should be considered when interpreting or relying on the outcome of an assessment results. Caveats help to ensure that the resulting grant or certificate is accurately understood, not misinterpreted and when necessary, enable to granting authority to specifically define limits or boundaries related to the assessment's scope or focus.
 
-
-
 [Link to Assessment Profiles](profiles-overview.md)
-
