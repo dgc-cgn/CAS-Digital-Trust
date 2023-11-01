@@ -35,9 +35,9 @@ As a starting point, the digital trust certification program would abide by 10 p
 9. Free from Hate and Violent Extremism
 10. Strong Enforcement and Accountability
 
-## Digital Trust Interoperability
+## Interoperability
 
-Digital trust interoperability refers to the ability of different organizations, programs, systems and technologies to work together in a way that allows people to decide to trust and rely on the information and services provided by those systems. Depending on the context, this can involve a variety of different components, such as ensuring that different systems use common standards and protocols for exchanging data, that there are clear and transparent processes in place for verifying the accuracy and reliability of the information being shared, and that there are measures in place to protect privacy and security.
+Interoperability refers to the ability of different organizations, programs, systems and technologies to work together in a way that allows people to decide to trust and rely on the information and services provided by those systems. Depending on the context, this can involve a variety of different components, such as ensuring that different systems use common standards and protocols for exchanging data, that there are clear and transparent processes in place for verifying the accuracy and reliability of the information being shared, and that there are measures in place to protect privacy and security.
 
 Digital trust interoperability is important because it helps to ensure that different organizations and systems can work together effectively and that people can rely on the information and services that they provide.
 
