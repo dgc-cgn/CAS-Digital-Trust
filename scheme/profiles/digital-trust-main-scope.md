@@ -82,7 +82,7 @@ There is no 'one-fits-all approach'. In scoping out a digital trust assessment, 
 |Topic|Minimal Tailoring| Specification of the broader subject matter or discipline.|
 |Sub-Scope|Tailoring to Specific Domain|Tailoring based on accepted practices, codes, etc., within the domain|
 |Focus|Tailoring to Specific Focus|Restriction of scope to a specific focus or specialization.|
-|Class Level|Tailoring to Engagement |Method of tailoring based on **Assessment Class Level**|
+|Class Level|Tailoring to Engagement |Method of tailoring based on [Assessment Class Level](./assessment-class-level.md)|
 |Caveats|Tailoring for Unexpected Results/Findings|Any caveats resulting from the assessmsent|
 
 ## Caveats
