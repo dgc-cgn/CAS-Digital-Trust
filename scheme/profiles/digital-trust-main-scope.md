@@ -69,7 +69,9 @@ The Digital Trust conformity assessment scheme is intended to support existing a
 
 ## Assessment Class Level
 
-Refer to [Assessment Class Level](./assessment-class-level.md)
+A assesment class level refers to the relative effort or thoroughness required to arrive at appropriately-founded conclusions. Depending on the class level, different methodologies and techniques may be employed. The reason for the different levels is to facilitate an objectively appropriate approach based on key factors, which have been identified as organizational size and risk level.
+
+For additional details please go to [Assessment Class Level](./assessment-class-level.md)
 
 ### Tailoring Digital Trust Assessments
 

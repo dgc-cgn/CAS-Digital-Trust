@@ -49,15 +49,15 @@ Domains that are defined as sub-scopes, include, but are not limited to:
 
 For more details please go to the [Assesment Schemes Page](./scheme/profiles/profiles-overview.md)
 
-## Certification Specialization
+## Certification Focus/Specialization
 
-Specialization, in addition to a sub-scope allows for a narrower focus on a specific area of conformity assessment that requires a detailed and specialized assessment of a targeted area of management, capability, product or process. Depending on the nature of the specialization, it may or may not be part of a certification scope or certification sub-scope.
+Focus/Specialization, in addition to a sub-scope allows for a narrower focus on a specific area of conformity assessment that requires a detailed and specialized assessment of a targeted area of management, capability, product or process. Depending on the nature of the specialization, it may or may not be part of a certification scope or certification sub-scope.
 
-## Certification Assessment Class Level
+## Assessment Class Level
 
-Certification is the formal outcome of a conformity assessment. However, certification is not a binary case of *conformining* or *non-conforming*. Many factors may be involved in determining the scopeDuring the certification process, the conformity assessment scheme may be tailored to indicate and accomondate the following:
+A **assesment class level** refers to the relative effort or thoroughness required to arrive at appropriately-founded conclusions. Depending on the class level, different methodologies and techniques may be employed. The reason for the different levels is to facilitate an objectively appropriate approach based on key factors, which have been identified as organizational size and risk level (note: these factors may expand as the conformity assessment scheme evolves)
 
-This tailoring is formalized by means of determing an **Assessment Class Level**
+For more details: [Assessment Class Levels](./scheme/profiles/assessment-class-level.md)
 
 ## Final Certificate Scope, Sub-Scope, Specialization and Tailoring
 
