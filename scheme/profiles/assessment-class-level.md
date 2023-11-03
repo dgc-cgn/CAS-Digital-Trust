@@ -18,7 +18,7 @@ The class of entity in relation to the digital trust ecosystem:
 
 * **Participant Entity** an actor who is an ordinary participant in the ecosystem
 * **Significant Entity** an actor having significant influence in the ecosystem
-* **Auhtoritative Entity** an actor having authority (e.g., government)
+* **Authoritative Entity** an actor having authority (e.g., government)
 
 For the purposes of the conformity assessment scheme, **number of employees** may be used as the key metric.
 
