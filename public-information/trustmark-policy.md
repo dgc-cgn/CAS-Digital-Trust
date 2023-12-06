@@ -6,7 +6,7 @@ A trustmark is a graphical representation of a grant resulting from the succesfu
 
 The trustmark is a visible indicator that signifies adherence to specific standards of trustworthiness that a product, service, or organization meets a certain level of quality or compliance with best practices.
 
-A trustmark instill confidence among consumers or users, indicating that the marked entity is reliable, secure, or respects user privacy.
+A trustmark instills confidence among consumers or users, indicating that the marked entity is reliable, secure, or respects user privacy.
 
 Trustmarks are often used in contexts such as online security, data protection, e-commerce, and sustainable business practices.
 
