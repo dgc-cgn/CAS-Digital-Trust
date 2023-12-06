@@ -2,7 +2,7 @@
 
 ## What is a Trustmark?
 
-A trustmark is a graphical represention of a grant resulting from the succesful outcome of a conformity asssment or verification process.
+A trustmark is a graphical represention of a grant resulting from the succesful outcome of a conformity assessment or verification process.
 
 The trustmark is a visible indicator that signifies adherence to specific standards of trustworthiness that a product, service, or organization meets a certain level of quality or compliance with best practices.
 
