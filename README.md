@@ -2,9 +2,9 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/dgc-cgn/CAS-Digital-Trust)
 
-![DGG Digital Trust Verified](./assets/dgc-logos/DGC_DT_VERIFIED.png)
-
 Need to find a scheme quickly? Here's a [Quick Link to Assessment Schemes](./scheme/profiles/profiles-overview.md)
+
+![DGG Digital Trust Verified](./assets/dgc-logos/DGC_DT_VERIFIED.png)
 
 ## Objective
 
