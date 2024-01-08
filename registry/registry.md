@@ -1,6 +1,6 @@
 # Grant Registry
 
-![DGG Digital Trust Verified](../assets/dgc-logos/DGC_DT_VERIFIED.png)
+![DGG Digital Trust Verified](../assets/dtv-logos/DTV_EN_Pos.png)
 
 Official registry of grants issued by the Digital Governance Council.
 
