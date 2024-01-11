@@ -2,7 +2,7 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/dgc-cgn/CAS-Digital-Trust)
 
-Need to find a scheme quickly? Here's a [Quick Link to Assessment Schemes](./scheme/profiles/profiles-overview.md)
+[Digital Governance Council Website](https://dgc-cgn.org)|[Conformity Assessment Schemes](./scheme/profiles/profiles-overview.md)|[Grant Registry](./registry/registry.md)|[Public Statements](./public-information/README.md)
 
 ![DGG Digital Trust Verified](./assets/dtv-logos/DTV_EN_Pos.png)
 

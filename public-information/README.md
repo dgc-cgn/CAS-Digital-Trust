@@ -1,4 +1,4 @@
-# Public Statement
+# Public Statements
 
 Digital Governance Council, its Directors, Managers, Staff, and others involved in the certification of organizations fully understand the importance of impartiality in undertaking its certification activities.
 
