@@ -4,7 +4,7 @@
 
 Need to find a scheme quickly? Here's a [Quick Link to Assessment Schemes](./scheme/profiles/profiles-overview.md)
 
-![DGG Digital Trust Verified](./assets/dgc-logos/DGC_DT_VERIFIED.png)
+![DGG Digital Trust Verified](./assets/dtv-logos/DTV_EN_Pos.png)
 
 ## Objective
 
