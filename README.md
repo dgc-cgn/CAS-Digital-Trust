@@ -49,7 +49,7 @@ Domains that are defined as sub-scopes, include, but are not limited to:
 * Technology Ethics
 * Artificial Intelligence
 
-For more details please go to the [Assesment Schemes Page](./scheme/profiles/profiles-overview.md)
+For more details please go to the [Assessment Schemes Page](./scheme/profiles/profiles-overview.md)
 
 ## Certification Focus/Specialization
 
@@ -57,7 +57,7 @@ Focus/Specialization, in addition to a sub-scope allows for a narrower focus on 
 
 ## Assessment Class Level
 
-A **assesment class level** refers to the relative effort or thoroughness required to arrive at appropriately-founded conclusions. Depending on the class level, different methodologies and techniques may be employed. The reason for the different levels is to facilitate an objectively appropriate approach based on key factors, which have been identified as organizational size and risk level (note: these factors may expand as the conformity assessment scheme evolves)
+A **assessment class level** refers to the relative effort or thoroughness required to arrive at appropriately-founded conclusions. Depending on the class level, different methodologies and techniques may be employed. The reason for the different levels is to facilitate an objectively appropriate approach based on key factors, which have been identified as organizational size and risk level (note: these factors may expand as the conformity assessment scheme evolves)
 
 For more details: [Assessment Class Levels](./scheme/profiles/assessment-class-level.md)
 
