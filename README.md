@@ -2,7 +2,7 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/dgc-cgn/CAS-Digital-Trust)
 
-[Digital Governance Council Website](https://dgc-cgn.org)|[Conformity Assessment Schemes](./scheme/profiles/profiles-overview.md)|[Grant Registry](./registry/registry.md)|[Public Statements](./public-information/README.md)|[GitHub Repository](https://github.com/dgc-cgn/CAS-Digital-Trust)|
+[Digital Governance Council Website](https://dgc-cgn.org)|[Conformity Assessment Schemes](./scheme/profiles/profiles-overview.md)|[Grant Registry](./registry/registry.md)|[Public Statements](./public-information/README.md)|[GitHub Repository](https://github.com/dgc-cgn/CAS-Digital-Trust)|[Webinar Slides](./docs/webinars/Webinar_%20Digital_Trust_Verified-2024-01-30.pdf)
 
 ![DGG Digital Trust Verified](./assets/dtv-logos/DTV_EN_Pos.png)
 
