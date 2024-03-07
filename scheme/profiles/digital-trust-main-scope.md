@@ -47,7 +47,7 @@ System reliability is a key element underlying digital trust. System reliability
 
 ## Digital Trust Conformity Assessment Scheme
 
-The Digital Trust conformity assessment scheme is intended to facilitate trust interoperablity in the digital world - or digital trust interoperabilty - as described in the previous section. To achieve this, the conformity assessment scheme incorporates certification sub-scopes and specializations that fit under a single umbrella - digital trust.
+The Digital Trust conformity assessment scheme is intended to facilitate trust interoperability in the digital world - or digital trust interoperability - as described in the previous section. To achieve this, the conformity assessment scheme incorporates certification sub-scopes and specializations that fit under a single umbrella - digital trust.
 
 * For suppliers, the digital trust scheme can be used to showcase their compliance to one or more recognized standards, certifications, accreditations, audit programs, and best practices.
 
