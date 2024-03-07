@@ -29,7 +29,7 @@ The main scope of certification is [Digital Trust](./scheme/profiles/digital-tru
 
 Depending on the context, the main scope may be tailored for certification, for example:
 
-* Recoginition of and adherence to existing standards, regulations and legislation
+* Recognition of and adherence to existing standards, regulations and legislation
 * Adaptation to the relevant context of digital ecosystems and communities
 * Accomodation of needs of specific stakeholders
 
