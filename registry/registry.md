@@ -11,7 +11,7 @@ Official registry of grants issued by the Digital Governance Council.
 |[DGC-VV-2024-01](./grants/DGC-VV-2024-01_2024_01_04_SIGNED_MARK.pdf)|PlaceSpeak Inc.|Digital Identity|Trusted Digital Identity|Certified B Corporation|CAN/DGSI 103-1:2023|Class 1: Self-Assessment|2024-01-04|
 |[DGC-VV-2024-02](./grants/DGC-VV-OBI-2024-05-17.pdf)|Ontario Brain Institute|Health|Health Data and Information Capability Framework|Core HDI Capabilities|CAN/DGSI 105-5:2023|Class 2: Targeted Method|2024-05-17|
 |[DGC-VV-2024-03](./grants/DGC-VV-2024-03-FINAL-2024-11-20-SIGNED.pdf)|Enigio AB|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Self Assessment|2024-11-18|
-|[DGC-VV-2024-04](./grants/DGC-VV-2024-04-FINAL-2024-11-26-SIGNED.pdf)|AffinityQuest|Digital Credentials| Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets|Digital Credentials and Digital Trust Services|DGSI TS 115:2023, Technical Specification for Digital Credentials and Digital Trust Services|Class 1: Self Assessment|2024-11-26|
+
 
 
 ---
