@@ -12,14 +12,6 @@ This profile sets out the fundamental characteristics and attributes required of
 
 ## Data-Centric Security
 
-TODO
+There is a growing need to protect confidential and sensitive data of critical sectors, relating to government, prime contractors, suppliers, personally identifiable information, client trade secrets, details on mergers and acquisitions, media assets, designs, Intellectual Property, which if it falls in the wrong hands can be detrimental to the organization. With existing and upcoming new regulations, in many cases the onus to keep information secure weighs increasingly on organizations themselves, as a data breach potentially leads to high financial penalties. Aside from regulation penalties, other associated risks with data breaches include, high cost of notification of data breach, allocation of resources to contain damage, reputation risk, litigation risk, market value risk.
 
-## Scalable Remote Access Infrastructure
-
-TODO
-
-## Health Data Information Capability Framework
-
-TODO
-
-## Responsible Data Stewardship
+Data-Centric Security focuses on protecting the data itself—through encryption, access controls, and monitoring—rather than relying solely on securing the systems or networks where the data resides.
