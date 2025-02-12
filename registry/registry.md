@@ -14,5 +14,6 @@ Official registry of grants issued by the Digital Governance Council.
 |[DGC-VV-2024-04](./grants/DGC-VV-2024-04-FINAL-2024-11-29-SIGNED.pdf)|AffinitiQuest|Digital Credentials| Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets|Digital Credentials and Digital Trust Services|DGSI TS 115:2023, Technical Specification for Digital Credentials and Digital Trust Services|Class 1: Attestation Method|2024-11-29|
 |[DGC-VV-2025-01](./grants/DGC-VV-2025-01-FINAL-2025-01-07-SIGNED.pdf)|myLaminin Corp.|Digital Credentials| Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets|Digital Credentials and Digital Trust Services|DGSI TS 115:2023, Technical Specification for Digital Credentials and Digital Trust Services|Class 1: Attestation Method|2025-01-07|
 |[DGC-VV-2025-02](./grants/DGC-VV-2025-02-FINAL-2025-01-14-SIGNED.pdf)|SECRO INC.|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-01-14|
+|[DGC-VV-2025-03](./grants/DGC-VV-2025-03-FINAL-2025-02-11-SIGNED.pdf)|CargoX Ltd.|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-02-11|
 
 ---
