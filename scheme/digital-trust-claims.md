@@ -1,5 +1,8 @@
 # Digital Trust Claims
-Policy on digital trust claims
+
+## Standard Practice for Digital Trust Claims and Supporting Information
+This document outlines the standard practice for developing, declaring, and conforming digital trust claims made by organizations. Digital trust claims refer to assertions regarding an organization's digital systems, services, or operations. The standard practice is designed to ensure that digital trust claims made by organizations are credible, transparent, and verifiable, providing interested parties with confidence in the accuracy and reliability of these claims. 
+
 ## What is a Digital Trust Claim?
 
 ### Extending the ISO 17029 Validation and Verification Model
@@ -11,3 +14,4 @@ A digital trust claim is a statement asserting the trustworthiness of a digital 
 A digital trust claim differs from a standardized validation and verification (V&V) claim in scope, context, and assessment criteria. Traditional V&V claims, as outlined in ISO/IEC 17029, focus on verifying compliance with established standards, regulations, or technical specifications—ensuring that a product, process, or system meets predefined, measurable requirements. These claims are often domain-specific and structured within well-documented conformity assessment frameworks.
 
 In contrast, a digital trust claim extends beyond strict regulatory or technical compliance. It encompasses broader trustworthiness attributes, such as security, privacy, transparency, and ethical considerations, which may not always have universally agreed-upon verification criteria. While validation and verification still apply, assessing a digital trust claim often requires a more context-driven, risk-based approach that considers stakeholder expectations, evolving technology landscapes, and open-source development principles. This makes digital trust claims more dynamic and multidimensional compared to traditional V&V claims.
+
