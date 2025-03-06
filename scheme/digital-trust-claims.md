@@ -13,7 +13,7 @@ A digital trust claim differs from a standardized validation and verification (V
 In contrast, a digital trust claim extends beyond strict regulatory or technical compliance. It encompasses broader trustworthiness attributes, such as security, privacy, transparency, and ethical considerations, which may not always have universally agreed-upon verification criteria. While validation and verification still apply, assessing a digital trust claim often requires a more context-driven, risk-based approach that considers stakeholder expectations, evolving technology landscapes, and open-source development principles. This makes digital trust claims more dynamic and multidimensional compared to traditional V&V claims.
 
 ## Standard Practice for Digital Trust Claims and Supporting Information
-This document outlines the standard practice for organizations to develop and declare digital trust claims. The standard practice is designed to ensure that digital trust claims made by organizations align consistently with a set of principles, providing interested parties with confidence in the accuracy and reliability of these claims. 
+This document outlines the standard practice for organizations to develop and declare digital trust claims. The standard practice is designed to ensure that digital trust claims made by organizations align consistently with a set of principles, providing interested parties with confidence in the accuracy and reliability of these claims. It is designed for organizations of all types and applies to any digital trust claim regarding a product, service, process, or organization.
 
 ## Principles
 The principles described below provide the basis for digital trust claims to be made.
