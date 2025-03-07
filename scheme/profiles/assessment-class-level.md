@@ -1,5 +1,7 @@
 # Assessment Class Level
 
+Also See [CyberReady Verification Levels](#cyberready-verification-levels) for the [CyberReady program](https://dgc-cgn.org/product/cyberready/)
+
 ## Assessment Class Levels
 
 A **assesment class level** refers to the relative effort or thoroughness required to arrive at appropriately-founded conclusions. Depending on the class level, different methodologies and techniques may be employed. The reason for the different levels is to facilitate an objectively appropriate approach based on key factors, which have been identified as organizational size and risk level (note: these factors may expand as the conformity assessment scheme evolves)
@@ -64,3 +66,18 @@ The following table provides a mapping to determine the assessment class level
 |Participant Entity |Class 1|Class 2|Class 3|
 |Significant Entity|Class 2|Class 3|Class 4|
 |Authoritative Entity |Class 3|Class 4|Class 4|
+
+
+## CyberReady Verification Levels
+||Validation Review|Validation Audit|Verification Review|Verification Audit|
+|---|---|---|---|---|
+|Cost|$250|$750, or Complimentary with 123 AuditPrepᵀᴹ|$250|$750, or Complimentary with 123 AuditPrepᵀᴹ|
+|Deliverable|A validation statement confirming plausibility at a point in time that requirements in the Standard have been fulfilled for future use (e.g. if an organisation has not yet implemented any cybersecurity program but is in the process of planning a program)|A validation statement confirming plausibility at a point in time that requirements in the Standard have been fulfilled for future use (e.g. if an organisation has not yet implemented any cybersecurity program but is in the process of planning a program)|A verification statement confirming truthfulness at a point in time that the requirements in the Standard have been fulfilled in the past (e.g. If an organisation has implemented a cybersecurity program)|A verification statement confirming truthfulness at a point in time that the requirements in the Standard have been fulfilled in the past (e.g. If anorganisation has implemented a cybersecurity program)|
+|Scope of Work|DGC reviews an organisation's self-assessment|DGC conducts more in-depth questioning and analysis of evidence from the organisation|DGC reviews an organisation's self-assessment|DGC conducts more in-depth questioning and analysis of evidence from the organisation|
+|Level of Assurance|Negative assurance - lower level of assurance stating that no significant issues were detected|Higher level of assurance - a positive conclusion about the organisation's conformity with the Standard|Negative assurance - lower level of assurance stating that no significant issues were detected|Higher level of assurance - a positive conclusion about the organisation's conformity with the Standard|
+|Duration*|Shorter duration|Longer duration|Shorter duration|Longer duration|
+
+*The time required of an organization can vary; on average, organizations allow for a couple of weeks to gather necessary documentation for a review. However, this timeframe can be shorter depending on the organization’s readiness.
+
+
+
