@@ -1,6 +1,6 @@
 # Assessment Class Level
 
-Also See [CyberReady Verification Levels](#cyberready-verification-levels) for the [CyberReady program](https://dgc-cgn.org/product/cyberready/)
+Also, see [CyberReady Verification Levels](#cyberready-verification-levels) for the [CyberReady program](https://dgc-cgn.org/product/cyberready/)
 
 ## Assessment Class Levels
 
