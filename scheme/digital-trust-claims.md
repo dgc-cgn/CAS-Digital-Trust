@@ -41,7 +41,7 @@ All digital trust claims shall be accompanied by an accessible reference providi
 
 ## Supporting Data
 
-The supporting data shall substantiate the scope, principles, assumptions and boundary conditions of the digital trust claim. Boundary conditions shall be defined in accordance with recognized digital governance standards that have international acceptability. These can include international, regional or national standards. This shall be sufficient and comprehensible to allow users, potential users, and other interested parties to evaluate digital trust claims in terms of relevance and overall validity, and to assess whether a digital trust claim is consistent with the applicable standard(s).
+The supporting data shall substantiate the scope, principles, assumptions and boundary conditions of the digital trust claim. Boundary conditions shall be defined in accordance with the scope of recognized digital governance standards that have international acceptability. These can include international, regional or national standards. This shall be sufficient and comprehensible to allow users, potential users, and other interested parties to evaluate digital trust claims in terms of relevance and overall validity, and to assess whether a digital trust claim is consistent with the applicable standard(s).
 
 The methods used to collect data to support a digital trust claim shall be appropriate to the claim and shall provide information that is relevant, verifiable, accurate and repeatable.
 
