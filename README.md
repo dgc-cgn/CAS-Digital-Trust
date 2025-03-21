@@ -23,6 +23,10 @@ The two programs currently under consideration for accreditation:
 * [Management Systems Certification Bodies](https://www.scc.ca/en/accreditation/programs/management-systems)
 * [Validation and Verification Bodies](https://www.scc.ca/en/accreditation/programs/greenhouse-gas)
 
+### Digital Trust Claims
+
+To address the requirements for the emerging area of digital trust, Digital Governance Council is developing a standard for [Digital Trust Claims](./scheme/digital-trust-claims.md). This standard may become part of an accreditation process
+
 ## Certification Main Scope
 
 The main scope of certification is [Digital Trust](./scheme/profiles/digital-trust-main-scope.md) This main scope is intended to be applied in the broader context of digital trust comprising of **organizational capabilities** along with **technological capabilities** working together to provide an overall confidence in a product, process, service, or any defined activity or undertaking. This main scope is also designed to recognize applicants who have obtained and are maintaining certifications that they are: 1) abiding by agreed-on principles and, 2) meeting specific requirements that they can be regarded as trusted actors within the digital ecosystems within which they operate. The main scope is also intended to streamline the commonalities across domains, reducing duplicative requirements.
