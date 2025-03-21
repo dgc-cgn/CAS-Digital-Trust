@@ -27,21 +27,21 @@ The two programs currently under consideration for accreditation:
 
 To address the requirements for the emerging area of digital trust, Digital Governance Council is developing a standard for [Digital Trust Claims](./scheme/digital-trust-claims.md). This standard may become part of an accreditation process
 
-## Certification Main Scope
+##  Main Scope
 
-The main scope of certification is [Digital Trust](./scheme/profiles/digital-trust-main-scope.md) This main scope is intended to be applied in the broader context of digital trust comprising of **organizational capabilities** along with **technological capabilities** working together to provide an overall confidence in a product, process, service, or any defined activity or undertaking. This main scope is also designed to recognize applicants who have obtained and are maintaining certifications that they are: 1) abiding by agreed-on principles and, 2) meeting specific requirements that they can be regarded as trusted actors within the digital ecosystems within which they operate. The main scope is also intended to streamline the commonalities across domains, reducing duplicative requirements.
+The main scope is [Digital Trust](./scheme/profiles/digital-trust-main-scope.md) This main scope is intended to be applied in the broader context of digital trust comprising of **organizational capabilities** along with **technological capabilities** working together to provide an overall confidence in a product, process, service, or any defined activity or undertaking. This main scope is also designed to recognize applicants who have obtained and are maintaining their status that they are: 1) abiding by agreed-on principles and, 2) meeting specific requirements that they can be regarded as trusted actors within the digital ecosystems within which they operate. The main scope is also intended to streamline the commonalities across domains, reducing duplicative requirements.
 
-Depending on the context, the main scope may be tailored for certification, for example:
+Depending on the context, the main scope may be tailored,for example:
 
 * Recognition of and adherence to existing standards, regulations and legislation
 * Adaptation to the relevant context of digital ecosystems and communities
 * Accomodation of needs of specific stakeholders
 
-## Certification Sub-Scope
+## Sub-Scope
 
-Due to the complexity of digital trust and evolving nature of the area, it is recognized that certifications may be relevant in multiple domains. Depending on the size and risk level of the applying organization and the resulting class level assigned (see Class Levels section), organizations may be required to demonstrate trust in more than one domain. However, organizations are not limited to the domains in their assigned class levels and are welcome to apply for as many sub-scopes as they deem appropriate. Each sub-scope achieved by an organization will be displayed on their certificate as per the terms of use.
+Due to the complexity of digital trust and evolving nature of the area, it is recognized that scope or sub-scope may be relevant in multiple domains. Depending on the size and risk level of the applying organization and the resulting class level assigned (see Class Levels section), organizations may be required to demonstrate trust in more than one domain. However, organizations are not limited to the domains in their assigned class levels and are welcome to apply for as many sub-scopes as they deem appropriate. Each sub-scope achieved by an organization will be displayed on their certificate as per the terms of use.
 
-To facilitate the broad area of digital trust, yet allow for meaningful and targetted conformity assessments, certification scheme includes **sub-scopes** which correspond to a practice area or an operating domain of the applying party. As thes different area require different expertise, requirements and regulatory considerations, the sub-scopes are intended to demonstrate the applying parties’ established level of trust in their field.
+To facilitate the broad area of digital trust, yet allow for meaningful and targetted conformity assessments, the scheme includes **sub-scopes** which correspond to a practice area or an operating domain of the applying party. As thes different area require different expertise, requirements and regulatory considerations, the sub-scopes are intended to demonstrate the applying parties’ established level of trust in their field.
 
 Domains that are defined as sub-scopes, include, but are not limited to:
 
@@ -55,9 +55,9 @@ Domains that are defined as sub-scopes, include, but are not limited to:
 
 For more details please go to the [Assessment Schemes Page](./scheme/profiles/profiles-overview.md)
 
-## Certification Focus/Specialization
+## Focus/Specialization
 
-Focus/Specialization, in addition to a sub-scope allows for a narrower focus on a specific area of conformity assessment that requires a detailed and specialized assessment of a targeted area of management, capability, product or process. Depending on the nature of the specialization, it may or may not be part of a certification scope or certification sub-scope.
+Focus/Specialization, in addition to a sub-scope allows for a narrower focus on a specific area of conformity assessment that requires a detailed and specialized assessment of a targeted area of management, capability, product or process. Depending on the nature of the specialization, it may or may not be part of a main scope or sub-scope.
 
 ## Assessment Class Level
 
@@ -85,7 +85,7 @@ Link to pdf version of [DGC 17029 Validation and Verification Quality Manual and
 
 Conformity assessment scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-Digital-Trust.git` to maintain your own copy of the repository.
 
-A [Primer Document](./PRIMER.md) is being developed for those who are unfamiliar with the standards development and certification process.
+A [Primer Document](./PRIMER.md) is being developed for those who are unfamiliar with the standards development and conformity assessment process.
 
 An [Orientation Video](https://youtu.be/3aQmmFXJfW0) to guide users around the various pieces of the repository (subject to change)
 
