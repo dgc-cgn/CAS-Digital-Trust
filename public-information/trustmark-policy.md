@@ -50,4 +50,6 @@ Trustmarks are often used in contexts such as online security, data protection, 
 
 ---
 
-![DGC trustmark](../assets/trustmarks/dgc-trustmark.png)
+![image](https://github.com/user-attachments/assets/ae0df63e-524e-47e8-9060-a78bb109c2b1)
+
+
