@@ -17,5 +17,6 @@ Official registry of grants issued by the Digital Governance Council.
 |[DGC-VV-2025-03](./grants/DGC-VV-2025-03-FINAL-2025-02-11-SIGNED.pdf)|CargoX Ltd.|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-02-11|
 |[DGC-VV-2025-04](./grants/DGC-VV-2025-04-FINAL-2025-02-28-SIGNED.pdf)|Global Shipping Business Network|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-02-28|
 |[DGC-VV-2025-05](./grants/DGC-VV-2025-05-FINAL-2025-04-01-SIGNED.pdf)|IQAX|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-04-01|
+|[DGC-VV-2025-06](./grants/DGC-VV-2025-06-FINAL-2025-05-16-SIGNED.pdf)|Credore|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-05-16|
 
 ---
