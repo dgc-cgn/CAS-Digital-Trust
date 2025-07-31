@@ -6,7 +6,7 @@ Official registry of grants issued by the Digital Governance Council.
 
 ## Grants
 
-|No.|Cerificate ID|Grantee|Topic|Sub-Scope|Focus|Applicable Standard(s), Tool(s)|Assesment Level|Date Issued|
+|No.|Cert. ID|Grantee|Topic|Sub-Scope|Focus|Applicable Standard(s), Tool(s)|Assesment Level|Date Issued|
 |---|---|---|---|---|---|---|---|---|
 |1|[DGC-VV-2024-01](./grants/DGC-VV-2024-01-FINAL-2024-01-04-SIGNED.pdf)|PlaceSpeak Inc.|Digital Identity|Trusted Digital Identity|Certified B Corporation|CAN/DGSI 103-1:2023|Class 1: Attestation Method|2024-01-04|
 |2|[DGC-VV-2024-02](./grants/DGC-VV-2024-02-FINAL-2024-05-17-SIGNED.pdf)|Ontario Brain Institute|Health|Health Data and Information Capability Framework|Core HDI Capabilities|CAN/DGSI 105-5:2023|Class 2: Targeted Method|2024-05-17|
@@ -20,5 +20,6 @@ Official registry of grants issued by the Digital Governance Council.
 |10|[DGC-VV-2025-06](./grants/DGC-VV-2025-06-FINAL-2025-05-16-SIGNED.pdf)|Credore|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-05-16|
 |11|[DGC-VV-2025-07](./grants/DGC-VV-2025-07-FINAL-2025-06-13-SIGNED.pdf)|SynergAI|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment Validation|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-06-13|
 |12|[DGC-VV-2025-08](./grants/DGC-VV-2025-08-FINAL-2025-06-20-SIGNED.pdf)|BlockPeer Technologies, Inc.|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment Validation|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Class 1: Attestation Method|2025-06-20|
-|13|[DGC-VV-2025-09](./grants/DGC-VV-2025-09-FINAL-2025-07-18-SIGNED.pdf)|IDENTOS, Inc.|Digital Trust|Digital Trust and Identy|Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets|CAN/DGSI 103-2:2024 Digital Trust and Identity – Part 2: Delivery of Healthcare|Verification Review|2025-07-18|
+|13|[DGC-VV-2025-09](./grants/DGC-VV-2025-09-FINAL-2025-07-18-SIGNED.pdf)|IDENTOS, Inc.|Digital Trust|Digital Trust and Identity|Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets|CAN/DGSI 103-2:2024 Digital Trust and Identity – Part 2: Delivery of Healthcare|Verification Review|2025-07-18|
+|14|[DGC-VV-2025-10](./grants/DGC-VV-2025-10-FINAL-2025-08-01-SIGNED.pdf)|YodaPlus Technlogies Private Limited|Digital Trust|Digital Trade Documentation|MLETR Reliable System Assessment Verification|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Verification Review|2025-08-01|
 ---
