@@ -25,4 +25,5 @@ Official registry of grants issued by the Digital Governance Council.
 |15|[DGC-VV-2025-11](./grants/DGC-VV-2025-11-FINAL-2025-08-26-SIGNED.pdf)|Sequent Tech|Digital Trust|Online Electoral Voting|Municipal Elections|CAN/DGSI 111-1 Online Voting – Part 1: Implementation of Online Voting in Canadian Municipal Elections |Verification Review|2025-08-26|
 |16|[DGC-VV-2025-12](./grants/DGC-VV-2025-12-FINAL-2025-09-11-SIGNED.pdf)|SGTraDex|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment Verification|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Verification Review|2025-09-11|
 |17|[DGC-VV-2025-13](./grants/DGC-VV-2025-13-FINAL-2025-10-14-SIGNED.pdf)|Vay Network Services Pvt. Ltd.|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment Verification|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Verification Review|2025-10-14|
+|18|[DGC-VV-2025-14](./grants/DGC-VV-2025-14-FINAL-2025-10-16-SIGNED.pdf)|AEOTrade (Beijing) Technology Co., Ltd.|Digital Trade|Digital Trade Documentation|MLETR Reliable System Assessment Verification|MLETR, ICC DSI/DGC MLETR Self-Assessment Tool|Verification Review|2025-10-15|
 ---
