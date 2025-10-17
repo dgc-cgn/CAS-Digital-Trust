@@ -6,6 +6,10 @@ Digital Governance Council ensures all employees and other personnel involved in
 
 To ensure that impartiality is both maintained and can be demonstrated, DGC has identified and assessed the risk of all relationships which may result in a conflict of interest or pose a threat to impartiality.
 
+## Management Statememnts
+
+* [Public Statements by Management](./PUBLIC-STATEMENTS.md)
+
 ## Policies, Processs and Principles
 
 * [Grant Policy](./grant-policy.md)
